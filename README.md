@@ -1,5 +1,5 @@
 # Практичне заняття 1. Основи Windows Forms
 
 
-<img width="2560" height="1401" alt="зображення" src="https://github.com/user-attachments/assets/f223d813-ced8-4680-8c7f-41cb58d32321" />
+<img width="2560" height="1382" alt="зображення" src="https://github.com/user-attachments/assets/e744a31f-6ae4-4e6d-8944-b19eddaa7bc8" />
 
